@@ -1,2 +1,6 @@
-# Voron-1
-Voron 1 CoreXY 3D Printer design
+# VORON  
+![](https://raw.githubusercontent.com/mzbotreprap/VORON/master/Resources/img/voron_assembly.png)
+
+Reddit: [/r/voroncorexy](https://www.reddit.com/r/voroncorexy/)
+
+Firmware, plans, and parts for VORON RepRap printer

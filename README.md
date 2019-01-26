@@ -1,6 +1,7 @@
-# VORON  
-![](https://raw.githubusercontent.com/mzbotreprap/VORON/master/Resources/img/voron_assembly.png)
+# Voron 1.6
 
-Reddit: [/r/voroncorexy](https://www.reddit.com/r/voroncorexy/)
+![Voron 1.5](http://vorondesign.com/images/voron1.6.jpg)
 
-Firmware, plans, and parts for VORON RepRap printer
+The official release of the Voron 1.6 3d printer.  You can find the BOM in the configurator located at the [Voron Design]( http://vorondesign.com/voron1.6) website.  The recommended size for this printer is 230mm^3.
+
+![VORON Design](http://vorondesign.com/images/voron_design_logo.png)

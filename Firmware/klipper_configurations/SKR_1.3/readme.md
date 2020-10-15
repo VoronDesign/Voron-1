@@ -4,4 +4,4 @@ This config file is for a BigTreeTech SKR 1.3 board on the Voron V1.8. For addit
 
 https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.3
 
-I talk a bit about electronics on here and it's using a SKR1.3: https://www.youtube.com/watch?v=f3dEewyuUNE&list=PLOtlFZbp4ND77xbqyOw35q5UoKPmUFSpP&index=2
+Of course the discord server https://discord.com/invite/voron , specifically the channel #voron_v1_questions on it is a great place to ask questions, and has the most activity from people who have built one.
